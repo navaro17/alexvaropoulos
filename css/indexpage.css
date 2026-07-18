@@ -1,0 +1,29 @@
+body {
+	font-size: 7pt;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	}
+
+TABLE {
+	font-size: 7pt;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	}
+
+A {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	}
+
+A:hover {
+	color: #FFFFFF;
+	background-color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+a:visited {
+	color: #FFFFFF;
+	font-weight: bold;
+	}
